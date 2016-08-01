@@ -594,7 +594,7 @@ border: 2px solid #fff;
 .business-talking{
 	background:url(../img/section-bg2.jpg) top center no-repeat;
 	background-size:cover;
-	padding:60px 0 10px;
+	padding:60px 0 60px;
 	text-align:center;
   vertical-align:middle;
 }
@@ -648,11 +648,12 @@ border: 2px solid #fff;
 	overflow:hidden;
 }
 .social-link{
-	padding:35px 0;
-	margin:0 0 0 68px;
+	padding:0px 0;
+	margin:15px auto 35px;;
 	display:block;
 	overflow:hidden;
 	list-style:none;
+  width: 76px;
 }
 .social-link li{
 	float:left;
